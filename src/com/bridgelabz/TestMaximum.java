@@ -15,7 +15,6 @@ public class TestMaximum {
 	public static Integer testMaximum(Integer x, Integer y, Integer z) {
 
 		Integer max = x;
-
 		if (y.compareTo(max) > 0)
 			max = y;
 
